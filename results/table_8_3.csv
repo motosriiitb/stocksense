@@ -1,0 +1,6 @@
+Model,MAE,RMSE,Directional accuracy (%),Report MAE,Report RMSE,Report DirAcc
+Zero-return baseline,0.01916,0.02465,,0.01916,0.02465,
+Random Forest,0.02092,0.02642,49.7,0.02223,0.02832,50.0
+XGBoost,0.02073,0.02629,50.3,0.02123,0.02728,51.6
+LSTM A: OHLCV only,0.01994,0.02558,48.7,0.01962,0.025,47.4
+LSTM B: OHLCV + indicators,0.0223,0.02842,45.7,0.02179,0.02869,51.3

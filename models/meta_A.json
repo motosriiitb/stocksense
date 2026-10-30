@@ -1,0 +1,15 @@
+{
+  "features": [
+    "ret",
+    "hl_range",
+    "body",
+    "vol_change",
+    "rel_volume"
+  ],
+  "lookback": 64,
+  "horizon": 4,
+  "seed": 42,
+  "symbol": "RELIANCE.NS",
+  "trained_until": "2023-10-20",
+  "epochs_run": 9
+}

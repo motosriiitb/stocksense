@@ -1,0 +1,26 @@
+{
+  "features": [
+    "ret",
+    "hl_range",
+    "body",
+    "vol_change",
+    "rel_volume",
+    "ema12_dist",
+    "ema26_dist",
+    "ema20_dist",
+    "ema50_dist",
+    "macd_n",
+    "macd_signal_n",
+    "macd_hist_n",
+    "rsi",
+    "pct_b",
+    "bb_width",
+    "atr_pct"
+  ],
+  "lookback": 64,
+  "horizon": 4,
+  "seed": 42,
+  "symbol": "RELIANCE.NS",
+  "trained_until": "2023-10-20",
+  "epochs_run": 10
+}

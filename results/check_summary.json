@@ -1,0 +1,19 @@
+{
+  "differences": [
+    "BUY signals",
+    "SELL signals",
+    "HOLD signals",
+    "Table 8.3 Random Forest MAE",
+    "Table 8.3 Random Forest RMSE",
+    "Table 8.3 Random Forest Directional accuracy",
+    "Table 8.3 XGBoost MAE",
+    "Table 8.3 XGBoost RMSE",
+    "Table 8.3 XGBoost Directional accuracy",
+    "Table 8.3 LSTM A: OHLCV only MAE",
+    "Table 8.3 LSTM A: OHLCV only RMSE",
+    "Table 8.3 LSTM A: OHLCV only Directional accuracy",
+    "Table 8.3 LSTM B: OHLCV + indicators MAE",
+    "Table 8.3 LSTM B: OHLCV + indicators RMSE",
+    "Table 8.3 LSTM B: OHLCV + indicators Directional accuracy"
+  ]
+}
